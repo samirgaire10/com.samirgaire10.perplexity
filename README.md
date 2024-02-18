@@ -1,6 +1,4 @@
-# Google-Gemini 
-
-
+# perplexity AI for kde Widgets 
 
 ## Development
 
