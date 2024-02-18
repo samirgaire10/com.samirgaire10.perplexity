@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "samirgaire10"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "perplexity plasmoid for Plasma.",
+        "Icon": "search-symbolic",
+        "Id": "com.samirgaire10.perplexity",
+        "License": "BSD 3.0",
+        "Name": "perplexity AI",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "0.8",
+        "Website": "https://github.com/samirgaire10/com.samirgaire10.Google-Gemini"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-StandAloneApp": true
+}
