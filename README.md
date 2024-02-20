@@ -8,19 +8,16 @@
 </h1>
 
 
+##  Other Tools 
 
-## Development
+- Goolge gimini [Github](https://github.com/samirgaire10/com.samirgaire10.Google-Gemini)
+- Chat Gpt  [Github](https://github.com/dark-eye/com.darkeye.chatGPT)
+- perplexity  [Github](https://github.com/samirgaire10/com.samirgaire10.perplexity)
+- Google  [Github](https://github.com/samirgaire10/com.samirgaire10.google)
+- Brave  [Github](https://github.com/samirgaire10/com.samirgaire10.brave)
+- Deepl  [Github](https://github.com/samirgaire10/com.samirgaire10.Deepl)
 
-Just fork or clone the project :
 
-
-run the command on terminal or download zip
-`git clone https://github.com/samirgaire10/com.samirgaire10.perplexity.git`
-
-move the file to `/home/.local/share/plasma/plasmoids/`  
-
-and run the command  
-`plasmawindowed  com.samirgaire10.perplexity`
 
 
 ##  Other ai Tools 
@@ -45,6 +42,25 @@ and run the command
 - 👨‍💻 My Highschool projects are available at [HighSchool projects](https://samirgaire10.github.io/High-School-Web-Projects/)
 - 👨‍💻 My Kamata projects are available at [ 日本工学院専門学校蒲田 projects](https://samirgaire10.github.io/kamata/)
 - 👨‍💻 My Linux projects are available at [ Linux projects](https://samirgaire10.github.io/linux/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
