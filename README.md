@@ -16,6 +16,8 @@
 - Google  [Github](https://github.com/samirgaire10/com.samirgaire10.google)
 - Brave  [Github](https://github.com/samirgaire10/com.samirgaire10.brave)
 - Deepl  [Github](https://github.com/samirgaire10/com.samirgaire10.Deepl)
+- twitter  [Github](https://github.com/samirgaire10/com.samirgaire10.twitter.git)
+
 
 
 
